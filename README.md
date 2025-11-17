@@ -5,6 +5,22 @@
 
 ---
 
+## 🖼️ Imagem do Projeto
+> Insira aqui a imagem criada manualmente da interface acessível do fogão.  
+> **Caminho sugerido dentro do repositório:**
+
+```
+img/fogao-acessivel.png
+```
+
+**Exemplo de inclusão no README.md:**
+
+```markdown
+![Interface do Fogão Acessível](img/fogao-acessivel.png)
+```
+
+---
+
 ## 📖 Sobre o Projeto
 Este projeto consiste na criação de um site estático em HTML com CSS inline, cujo objetivo é apresentar o redesign de uma interface de fogão considerando princípios de usabilidade, acessibilidade, empatia e design centrado no ser humano.
 
@@ -76,10 +92,10 @@ Baseado no Design Universal, garantindo percepção multisensorial, tolerância 
 ---
 
 ## 🔧 Requisitos Técnicos
-- HTML puro
-- CSS inline
-- Sem JavaScript
-- Imagem criada manualmente
+- HTML puro  
+- CSS inline  
+- Sem JavaScript  
+- Imagem criada manualmente  
 
 ---
 
