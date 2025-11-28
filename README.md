@@ -18,6 +18,8 @@ img/fogao-acessivel.png
 ```markdown
 ![Interface do Fogão Acessível](img/fogao-acessivel.png)
 ```
+![Interface do Fogão Acessível](img/fogao-acessivel.png)
+
 
 ---
 
