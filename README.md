@@ -16,7 +16,7 @@ img/fogao-acessivel.png
 **Exemplo de inclusão no README.md:**
 
 ```markdown
-![Interface do Fogão Acessível](/img/fogao-acessivel.png)
+![Interface do Fogão Acessível](img/fogao-acessivel.png)
 ```
 
 ---
